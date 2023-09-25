@@ -1,0 +1,27 @@
+[
+  {
+    "employee" : "16a596ae-edd3-4847-99fe-c4518e82c86f",
+    "salary" : "1000",
+    "effectiveDate" : "1966-01-02T00:00:00.000Z"
+  },
+  {
+    "employee" : "b7839309-3348-463b-a7e3-5de1c168beb3",
+    "salary" : "500",
+    "effectiveDate" : "1966-01-03T00:00:00.000Z" 
+  },
+  {
+    "employee" : "03aa1462-ffa9-4978-901b-7c001562cf6f",
+    "salary" : "500",
+    "effectiveDate" : "1966-01-04T00:00:00.000Z" 
+  },
+  {
+    "employee" : "62c1084e-6e34-4630-93fd-9153afb65309",
+    "salary" : "200",
+    "effectiveDate" : "1966-01-05T00:00:00.000Z" 
+  },
+  {
+    "employee" : "c0c2293d-16bd-4603-8e08-638a9d18b22c",
+    "salary" : "500",
+    "effectiveDate" : "1966-01-06T00:00:00.000Z" 
+  }
+]
